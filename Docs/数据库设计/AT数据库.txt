@@ -1,0 +1,20 @@
+create table 用户信息
+(
+	UserName varchar(20) NOT NULL,
+	UserNum varchar(11) NOT NULL CONSTRAINT U_Num PRIMARY KEY,
+	UserPass varchar(10)
+)
+
+create table 支出信息
+(
+	UserNum varchar(10) NOT NULL CONSTRAINT U1_Num PRIMARY KEY,
+	PayNum float NOT NULL,
+	PayName varchar(10) NOT NULL check(PayName in ('餐饮','购物','旅行','学习','服饰','社交'))
+)
+
+create table 收入信息
+(
+	UserNum varchar(10) NOT NULL CONSTRAINT U2_Num PRIMARY KEY,
+	InComeNum float NOT NULL,
+	InComeName varchar(10) NOT NULL check(InComeName in ('工资','基金','奖金')),
+)
