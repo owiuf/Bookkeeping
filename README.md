@@ -16,3 +16,13 @@
 ## 项目简介
 “随时记账”选择从便民的角度出发，将页面设计得简洁大气，同时使用起来更方便快捷，用户可通过添加便签在桌面直接编辑而无需进入APP就能轻松记账，去除了很多细微又不实用的功能，功能简单却完全能够满足用户需求。除了主要的记账功能外，还可以通过设置每月预算，并通过app显示出本月的剩余预算，有助于财务管理与收入分配。统计每日支出类别及各类别占支出的比重，在记账的同时可以添加对这笔消费支出的说明，成为一个可以简单记录生活的方式。除此之外，团队还在不断完善项目的各个功能模块，以带给用户最好的使用体验。
 ## 界面展示
+### 记账录入
+![F381F3107C2CB3B106383EE58706F587](https://user-images.githubusercontent.com/65086548/123050395-3c98ce80-d433-11eb-9e6c-4ca3aeb2295c.jpg)
+### 主界面
+![D44431564FDDE20313E7FC3C023110A1](https://user-images.githubusercontent.com/65086548/123050700-8e415900-d433-11eb-9e7f-b94fe1c1ccee.jpg)
+### 功能分界面
+![图片1](https://user-images.githubusercontent.com/65086548/123051201-1a538080-d434-11eb-8a5e-e065185c87ed.png)
+### 用户中心
+![CCE7814D5BD631E73FCC4A22ED53EE28](https://user-images.githubusercontent.com/65086548/123050878-bd57ca80-d433-11eb-96f0-8215941a815b.jpg)
+### 每日支出
+![C01C9DBF49F17269E15D8D26BE956B34](https://user-images.githubusercontent.com/65086548/123050979-dbbdc600-d433-11eb-80df-e09b169a5f83.png)
